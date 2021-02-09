@@ -4,277 +4,277 @@
 translate spanish start_9704978c:
 
     # "В день, когда мне исполнилось семнадцать, я похитил девушку."
-    ""
+    "El dia que cumplí Diecisiete, secuestre a una chica."
 
 # game/script.rpy:33
 translate spanish start_4ba6f45d:
 
     # "Ее звали Алиса."
-    ""
+    "Su nombre era Alice."
 
 # game/script.rpy:35
 translate spanish start_cde1c736:
 
     # "Общительность не была главной чертой ее характера, в классе она всегда вела себя тихо, особо ни с кем не разговаривала."
-    ""
+    "No era conocida por ser social que digamos, en clase siempre fue callada, especialmente con los que no conocía."
 
 # game/script.rpy:37
 translate spanish start_ce94da0d:
 
     # "Такую девушку мне не составило труда вытащить на свидание после школы."
-    ""
+    "No fue difícil invitar a salir a una chica como ella después de la escuela."
 
 # game/script.rpy:39
 translate spanish start_600cc19e:
 
     # "В процессе она легко согласилась пойти ко мне домой, где я дал ей выпить сок со снотворным, после чего Алиса уснула буквально за считанные минуты."
-    ""
+    "Durante la cita ella acepto rápidamente venir a mi casa conmigo, donde le di un jugo mezclado con pastillas para dormir, Alice cayó dormida en cuestión de minutos."
 
 # game/script.rpy:41
 translate spanish start_2707e5f3:
 
     # "Это мое первое похищение."
-    ""
+    "Es mi primer secuestro."
 
 # game/script.rpy:43
 translate spanish start_3397f4db:
 
     # "Не самое плохое начало."
-    ""
+    "Nada mal para empezar."
 
 # game/script.rpy:45
 translate spanish start_3deed89e:
 
     # "Все прошло по плану, хотя с дозировкой я переборщил."
-    ""
+    "Todo iba de acuerdo al plan, aunque tal vez me había excedido un poco con la droga."
 
 # game/script.rpy:47
 translate spanish start_0c3638fb:
 
     # "По некоторым обстоятельствам я жил с дядей."
-    ""
+    "Yo vivo con mi tio."
 
 # game/script.rpy:49
 translate spanish start_12a403b4:
 
     # "Его дом для нас двоих был великоват, поэтому некоторые комнаты пустовали."
-    ""
+    "Su casa es demasiado grande para nosotros dos, asi que algunas habitaciones están vaciás."
 
 # game/script.rpy:51
 translate spanish start_79fee42a:
 
     # "Дядя давно говорил, что хочет сдать их в аренду, но так и не дал одного объявления. Поэтому одну из них я занял как свою пыточную. Конечно, он об этом не знал."
-    ""
+    "Mi tio dice desde hace mucho tiempo que quiere la rentar, pero nunca publico un anuncio."
 
 # game/script.rpy:53
 translate spanish start_b1f3aeff:
 
     # "Эдвард, так звали моего дядю, редко заходил в пустые комнаты. Единственная ключ-карта от одной из комнат давно обосновалась в моем кармане."
-    ""
+    "El nombre de mi tio es Edward. Raramente entra a una de las habitaciones vaciás. La única tarjeta de la habitación estaba en mi bolsillo."
 
 # game/script.rpy:55
 translate spanish start_5c0cef62:
 
     # "Эдвард всегда возвращался домой поздно, поэтому сегодня у меня было достаточно времени, чтобы развлечься со своей новой игрушкой."
-    ""
+    "Edward siempre viene tarde a casa, asi que tengo tiempo de sobra para divertirme con mi nuevo juguete."
 
 # game/script.rpy:57
 translate spanish start_69d0d5bd:
 
     # "Закрывшись в комнате наедине с Алисой, я ощутил, как по телу прокатилась волна жара."
-    ""
+    "Cuando me encerré en la habitación con Alice, sentí recorrer una ola de calor a través de todo mi cuerpo."
 
 # game/script.rpy:59
 translate spanish start_a08a4ea6:
 
     # "Руки вспотели и начали елозить по веревке. Взгляд жадно прыгал с острого лезвия на белую кожу неподвижного тела и обратно. Я облизнул губы, предвкушая наслаждение."
-    ""
+    "Mis manos estaban sudando cuando empecé a buscar la cuerda. Mi mirada busco hambrientamente a la cuchilla afilada para la piel blanca del cuerpo inmóvil y una vez mas. Me relamí los labios en anticipación."
 
 # game/script.rpy:61
 translate spanish start_61a5c8b4:
 
     # "Одновременно с возбуждением в голову полезли дурные мысли."
-    ""
+    "Al mismo tiempo que el furor, me vienen malos pensamientos a la cabeza."
 
 # game/script.rpy:63
 translate spanish start_9c1a54b5:
 
     # "Я оглянулся на закрытую дверь."
-    ""
+    "Me volteo para ver la puerta cerrada."
 
 # game/script.rpy:65
 translate spanish start_1b99e550:
 
     # "Не допустил ли ошибки? Все ли прошло хорошо?"
-    ""
+    "¿Cometí algún error? ¿Hice todo bien?"
 
 # game/script.rpy:67
 translate spanish start_70b8a9e9:
 
     # "Я потряс головой, отгоняя дурное предчувствие, и приступил к делу, о котором давно мечтал."
-    ""
+    "Sacudo mi cabeza en un intento de despejar mis dudas, y me encamino al trabajo con el que tanto he soñado."
 
 # game/script.rpy:69
 translate spanish start_8b093306:
 
     # "Сейчас главное лишь то, что мы здесь вдвоем, и ближайшие часы нам никто не помешает."
-    ""
+    "La única cosa que importa ahora somos solo nosotros dos, y eso no va a cambiar durante unas cuantas horas."
 
 # game/script.rpy:71
 translate spanish start_9ea27e98:
 
     # "На меня накатывало волнение от предстоящего."
-    ""
+    "Me estaba comenzando a emocionar por lo que estaba por venir."
 
 # game/script.rpy:73
 translate spanish start_aec61e57:
 
     # "Отложив свои орудия в сторону, я присел рядом с Алисой, положив руку на ее тонкую, хрупкую ножку. Провел ладонью вверх по бедру, касаясь края коротенькой юбки."
-    ""
+    "Poniendo mis herramientas a un lado, me siento al lado de Alice, poniendo mis manos en sus finas y frágiles piernas. Paso mi mano por su muslo, tocando el borde de su minifalda."
 
 # game/script.rpy:75
 translate spanish start_f6d1c0bd:
 
     # "Надо снять одежду, иначе будет только мешать мне наслаждаться проделанной работой, скрывать порезы и кровоточащие раны."
-    ""
+    "Necesito sacarle la ropa, de otro modo solo va me va a interferir disfrutar el trabajo hecho."
 
 # game/script.rpy:77
 translate spanish start_1faff30a:
 
     # "Пуговица за пуговицей я медленно расстегнул рубашку и замер в недоумении."
-    ""
+    "Botón por botón, saco lentamente su falda y credulamente me congelo."
 
 # game/script.rpy:85
 translate spanish start_140f8018:
 
     # "Под одеждой скрывались синяки и другие следы побоев."
-    ""
+    "Había moretones y otros signos de maltrato debajo de su ropa."
 
 # game/script.rpy:87
 translate spanish start_f6b01bd2:
 
     # "Я не бил ее, значит, не мог оставить эти ушибы."
-    ""
+    "Yo no la golpeé, asi que no podía haberle dejado esos moretones."
 
 # game/script.rpy:89
 translate spanish start_c72c1bcb:
 
     # "Тогда откуда они?"
-    ""
+    "¿Entonces de donde salieron?"
 
 # game/script.rpy:91
 translate spanish start_638fc55a:
 
     # "Неужели ее избивают дома?"
-    ""
+    "¿Esta siendo maltratada en casa?"
 
 # game/script.rpy:93
 translate spanish start_d2727821:
 
     # "И ведь били только там, где одежда могла скрыть синяки… Чтобы не увидели посторонние люди."
-    ""
+    "Después de todo, ella solamente estaba golpeada en lugares donde la ropa pudiera tapar los moretones… Para evitar ser vista por extraños."
 
 # game/script.rpy:95
 translate spanish start_41cbabc8:
 
     # "Похоже, над Алисой регулярно издевались."
-    ""
+    "Todo indica que Alice fue maltratada regularmente."
 
 # game/script.rpy:97
 translate spanish start_fbc0231a:
 
     # "В одних местах свежие гематомы только наливались кровью, в других — отвратительно чернели, а давнишние потихоньку рассасывались."
-    ""
+    "En algunos lugares había moretones con sangre fresca, en otros, había asquerosas zonas oscurecidas. Los mas antiguos estaban lentamente desapareciendo"
 
 # game/script.rpy:99
 translate spanish start_29b134e6:
 
     # "Не могу даже представить, как тяжело и больно двигаться в таком состоянии."
-    ""
+    "No me puedo ni imaginar que tan difícil y doloroso debe ser moverse en ese estado."
 
 # game/script.rpy:101
 translate spanish start_1c87a1ed:
 
     # "А ведь в школу она приходила каждый день и даже улыбалась в редких разговорах с одноклассниками."
-    ""
+    "Pero igualmente ella viene a la escuela cada dia y incluso sonríe en raras ocasiones con sus compañeros."
 
 # game/script.rpy:103
 translate spanish start_ea2b4cd9:
 
     # "Возможно, она решила пойти со мной, чтобы как можно позже вернуться домой."
-    ""
+    "Ademas que ella decidió ir conmigo asi ella podía volver a casa lo mas tarde posible."
 
 # game/script.rpy:107
 translate spanish start_0ab9ed02:
 
     # "От этих мыслей желание сделать ей больно исчезло."
-    ""
+    "Estos pensamientos me quitaron el deseo de lastimarla."
 
 # game/script.rpy:109
 translate spanish start_38280862:
 
     # "Но я не передумал, нет."
-    ""
+    "Pero no he cambiado de parecer, no."
 
 # game/script.rpy:111
 translate spanish start_815d43c2:
 
     # "То непонятное чувство на душе, скорее всего, не жалость, а разочарование."
-    ""
+    "Ese extraño sentimiento en mi corazón no fue lastima, si no decepción."
 
 # game/script.rpy:113
 translate spanish start_fca80650:
 
     # "Ведь психи вроде меня не умеют чувствовать жалость и не способны сопереживать другим."
-    ""
+    "Después de todo, psicópatas como yo no pueden sentir lastima o empatia por otros."
 
 # game/script.rpy:115
 translate spanish start_b69c38df:
 
     # "Похитив Алису, я хотел насладиться ее страданиями, увидеть первую каплю крови на гладкой белоснежной коже."
-    ""
+    "Cuando secuestre a Alice, quería disfrutar de su sufrimiento, ver la primera gota de sangre salir de su suave y blanca piel."
 
 # game/script.rpy:117
 translate spanish start_dc1611e6:
 
     # "А теперь не смогу получить желаемое."
-    ""
+    "Y ahora, no puedo obtener lo que quería."
 
 # game/script.rpy:119
 translate spanish start_c5035fc2:
 
     # "Ее тело и без моих усилий покрыто увечьями."
-    ""
+    "Su cuerpo ya esta cubierto de heridas sin siquiera mi esfuerzo."
 
 # game/script.rpy:121
 translate spanish start_d06f36a6:
 
     # "Это как попросить на день рождения сладкий торт, но получить черствый заплесневелый кекс!"
-    ""
+    "Es como pedir un dulce pastel de cumpleaños, y conseguir un duro y podrido cupcake."
 
 # game/script.rpy:123
 translate spanish start_f0478c23:
 
     # "Как я смогу наполнить Алису болью и ужасом, когда она и без меня терпит издевательства?!"
-    ""
+    "¡¿Como puedo atormentar a Alice con terror y dolor cuando ella ya esta siendo maltratada?!"
 
 # game/script.rpy:128
 translate spanish start_8e50145f:
 
     # "После раздумий я решил спрятать все пыточные предметы, что могли указать на настоящую причину похищения."
-    ""
+    "Después de pensarlo, decidí esconder todo los objetos de tortura que pudieran indicar la verdadera razón por el secuestro."
 
 # game/script.rpy:130
 translate spanish start_cd8d42c5:
 
     # "А когда Алиса проснется, отправлю ее домой и в следующий раз найду более подходящую жертву."
-    ""
+    "Y cuando Alice despierte, la enviare a casa y encontrare a una mejor victima."
 
 # game/script.rpy:138
 translate spanish start_4c440ec3:
 
     # "Наконец Алиса открыла глаза."
-    ""
+    "Finalmente, Alice abrió los ojos."
 
 # game/script.rpy:151
 translate spanish okay_0d03aecf:
