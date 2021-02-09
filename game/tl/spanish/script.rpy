@@ -280,85 +280,85 @@ translate spanish start_4c440ec3:
 translate spanish okay_0d03aecf:
 
     # "Как только она пришла в сознание, я бросился к ней, изображая обеспокоенность и заботу."
-    ""
+    "Tan pronto como recupero la conciencia, corrí hacia ella, fingiendo estar preocupado."
 
 # game/script.rpy:155
 translate spanish okay_a53fd4eb:
 
     # clive "Ох, ты очнулась. С тобой все в порядке? Нигде не болит? Когда мы сидели, ты вдруг потеряла сознание, и я…"
-    clive ""
+    clive "Oh, estas despierta. ¿Estas bien? ¿Te duele algo? Te desmayaste de repente cuando estábamos sentados, y yo…"
 
 # game/script.rpy:157
 translate spanish okay_20849c14:
 
     # "Однако Алиса не спешила проявлять волнение. Наоборот, она поднялась, осмотрелась, на секунду прикрыла глаза и затем посмотрела прямо на меня."
-    ""
+    "Sin embargo, Alice no tenia apuro en mostrar asombro. En vez de eso, se levanto, miro a su alrededor, cerro sus ojos por unos segundos y luego me miro directamente a mi."
 
 # game/script.rpy:167
 translate spanish okay_af18e65c:
 
     # alice "Ты усыпил меня."
-    alice ""
+    alice "Me pusiste a dormir."
 
 # game/script.rpy:169
 translate spanish okay_8f031dc5:
 
     # "От таких слов я на секунду застыл."
-    ""
+    "Esas palabras me dejaron helado por unos segundos."
 
 # game/script.rpy:171
 translate spanish okay_37e681b3:
 
     # "Как она узнала об этом?"
-    ""
+    "¿Como es que ella lo sabia?"
 
 # game/script.rpy:173
 translate spanish okay_e66b9161:
 
     # clive "О… О чем ты? Говорю же, ты просто вырубилась…"
-    clive ""
+    clive "Eh... ¿De que estas hablando? Ya te dije, te desmayaste de repente"
 
 # game/script.rpy:179
 translate spanish silence_cd15a5ed:
 
     # "Я молча посмотрел ей в глаза."
-    ""
+    "La mire a ella en silencio."
 
 # game/script.rpy:185
 translate spanish silence_fe0c777e:
 
     # "Она посмотрела на меня в ответ."
-    ""
+    "Ella me devolvió la mirada."
 
 # game/script.rpy:187
 translate spanish silence_bbb5a2a0:
 
     # "Мы долго смотрели друг другу в глаза, пока она первой не нарушила тишину."
-    ""
+    "Nos miramos a los ojos por un largo tiempo, hasta que ella fue la primera en romper el silencio."
 
 # game/script.rpy:193
 translate spanish silence_af18e65c:
 
     # alice "Ты усыпил меня."
-    alice ""
+    alice "Me pusiste a dormir."
 
 # game/script.rpy:195
 translate spanish silence_8f031dc5:
 
     # "От таких слов я на секунду застыл."
-    ""
+    "Esas palabras me dejaron helado por unos segundos."
 
 # game/script.rpy:197
 translate spanish silence_37e681b3:
 
     # "Как она узнала об этом?"
-    ""
+    "¿Como es que ella lo sabia?"
 
 # game/script.rpy:199
 translate spanish silence_e29f4f62:
 
     # clive "О… О чем ты? Когда мы сидели, ты просто вырубилась…"
-    clive ""
+    clive "Eh... ¿De que estas hablando? Estábamos sentados aca, y luego te desmayaste de repente."
 
 # game/script.rpy:207
 translate spanish hypnotic_63d2e187:
