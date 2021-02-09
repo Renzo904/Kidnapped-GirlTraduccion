@@ -1,4 +1,9 @@
-*.*
 *
-!game/tl/spanish/
+!*/
+game/*
 !game/screens.rpy
+!game/tl/
+!/game/tl/spanish/
+!/game/tl/spanish/*
+
+!/.gitignore
