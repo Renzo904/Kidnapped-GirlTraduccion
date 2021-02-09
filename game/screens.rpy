@@ -306,6 +306,7 @@ screen navigation():
             textbutton _("Новая игра") action Start()
             textbutton _("English") action Language("english")
             textbutton _("Русский") action Language(None)
+            textbutton _("Spanish") action Language("spanish")
 
         else:
 
