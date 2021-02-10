@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-22 22:30
+# TODO: Translation updated at 2020-06-22 22:30
 
 # game/script.rpy:25
 translate spanish start_9704978c:
@@ -364,685 +364,685 @@ translate spanish silence_e29f4f62:
 translate spanish hypnotic_63d2e187:
 
     # alice "Меня не раз усыпляли, так что мне знакомо чувство, когда я начинаю засыпать после снотворного."
-    alice ""
+    alice "Me han puesto a dormir mas de una vez, asi que conozco el sentimiento cuando comienzo a quedarme dormida después de una pastilla para dormir."
 
 # game/script.rpy:209
 translate spanish hypnotic_9e679a07:
 
     # clive "Усыпляли?"
-    clive ""
+    clive "¿Puesto a dormir?"
 
 # game/script.rpy:211
 translate spanish hypnotic_b1319270:
 
     # "От этой новости я оторопел больше, чем когда Алиса заявила, что я подсыпал ей снотворное."
-    ""
+    "Me quede mas sorprendido por esta noticia que cuando Alice dijo que la drogue."
 
 # game/script.rpy:217
 translate spanish hypnotic_b2e1fb05:
 
     # alice "Это…"
-    alice ""
+    alice "Es…"
 
 # game/script.rpy:223
 translate spanish hypnotic_ffe85669:
 
     # alice "Забудь."
-    alice ""
+    alice "Olvidalo."
 
 # game/script.rpy:229
 translate spanish hypnotic_1a566505:
 
     # alice "В любом случае, зачем ты усыпил меня? Ты что-то сделал со мной?"
-    alice ""
+    alice "De todas maneras ¿Porque me pusiste a dormir? ¿Me hiciste algo?"
 
 # game/script.rpy:233
 translate spanish hypnotic_f9d7cb31:
 
     # "Алиса коснулась себя между ног, не поднимая юбку."
-    ""
+    "Alice se toco a ella misma entre las piernas sin levantar su falda."
 
 # game/script.rpy:235
 translate spanish hypnotic_2ba06a8f:
 
     # clive "Эй, я ничего плохого с тобой не делал."
-    clive ""
+    clive "Ey, no te hice nada malo."
 
 # game/script.rpy:237
 translate spanish hypnotic_463099d5:
 
     # "Она убрала руку."
-    ""
+    "Ella saco su mano."
 
 # game/script.rpy:243
 translate spanish hypnotic_cc8350e6:
 
     # alice "Ты прав."
-    alice ""
+    alice "Tienes razón."
 
 # game/script.rpy:249
 translate spanish hypnotic_af0ae453:
 
     # alice "Тогда зачем?"
-    alice ""
+    alice "¿Entonces porque?"
 
 # game/script.rpy:251
 translate spanish hypnotic_1fcce110:
 
     # clive "Я же говорил…"
-    clive ""
+    clive "Ya te dije…"
 
 # game/script.rpy:257
 translate spanish hypnotic_325338fc:
 
     # alice "Я знаю, что ты усыпил меня! Перестань увиливать от ответа!"
-    alice ""
+    alice "¡Se que me pusiste a dormir! ¡No evadas la pregunta!"
 
 # game/script.rpy:261
 translate spanish hypnotic_faae32c5:
 
     # "Я не знал, что сказать."
-    ""
+    "No sabia que decir."
 
 # game/script.rpy:263
 translate spanish hypnotic_feee131e:
 
     # "Неловкость ситуации возрастала с каждой секундой. Я не знал, как нужно поступить и что вообще можно сказать."
-    ""
+    "La situación era cada vez mas incomoda por cada segundo. No sabia que hacer o decir."
 
 # game/script.rpy:265
 translate spanish hypnotic_278176b6:
 
     # "Надо было срочно сменить тему и попытаться взять контроль над положением."
-    ""
+    "Necesitaba cambiar de tema rápido y tratar de calmar la situación."
 
 # game/script.rpy:267
 translate spanish hypnotic_d25c01cf:
 
     # clive "Откуда у тебя синяки?"
-    clive ""
+    clive "¿Como conseguiste los moretones?"
 
 # game/script.rpy:273
 translate spanish hypnotic_ab50abbd:
 
     # alice "Так ты меня раздевал?"
-    alice ""
+    alice "¿Asi que me desnudaste?"
 
 # game/script.rpy:279
 translate spanish hypnotic_1ff5b30f:
 
     # alice "Ах… я поняла."
-    alice ""
+    alice "Ah... Ya entiendo."
 
 # game/script.rpy:285
 translate spanish hypnotic_5827b27d:
 
     # alice "Где фотографии?"
-    alice ""
+    alice "¿Donde están las fotos?"
 
 # game/script.rpy:287
 translate spanish hypnotic_bc8a667a:
 
     # clive "Какие фотографии?"
-    clive ""
+    clive "¿Que fotos?"
 
 # game/script.rpy:289
 translate spanish hypnotic_be57fe01:
 
     # alice "Фотографии моего тела."
-    alice ""
+    alice "Las fotos de mi cuerpo."
 
 # game/script.rpy:291
 translate spanish hypnotic_5a9979f7:
 
     # clive "Нет-нет, я не раздевал тебя и не фотографировал. Поверь мне."
-    clive ""
+    clive "No, no, no te desnude ni te saque fotos. Confía en mi."
 
 # game/script.rpy:297
 translate spanish hypnotic_0ce060a1:
 
     # alice "Тогда почему ты усыпил меня?"
-    alice ""
+    alice "¿Entonces porque me pusiste a dormir?"
 
 # game/script.rpy:299
 translate spanish hypnotic_20423d7f:
 
     # clive "Это вовсе не так! И, вообще, ты так и не ответила на мой вопрос."
-    clive ""
+    clive "¡Ya te dije que no lo hice! Y todavía no has respondido a mi pregunta."
 
 # game/script.rpy:305
 translate spanish hypnotic_8a7fb07f:
 
     # alice "Скажу только после того, как услышу правду."
-    alice ""
+    alice "Te voy a responder después de escuchar la verdad."
 
 # game/script.rpy:307
 translate spanish hypnotic_fb7ddfe9:
 
     # "Я колебался."
-    ""
+    "Empiezo a dudar."
 
 # game/script.rpy:309
 translate spanish hypnotic_eee5a6ce:
 
     # "Должен ли я сказать правду? Что-то вроде: «Ах, прости, я просто хотел пытать тебя у себя дома. Но, ничего страшного, я уже передумал, так что можешь спокойно идти домой…»"
-    ""
+    "¿Debería decirle la verdad? Algo como, \"Oh, Lo siento, solo quería torturarte en casa, pero esta bien, ya cambie de opinion, asi que te puedes ir…\""
 
 # game/script.rpy:311
 translate spanish hypnotic_9e7e6c0d:
 
     # "Нет, это бред. Тогда…"
-    ""
+    "No, esto no tendría sentido. Entonces..."
 
 # game/script.rpy:313
 translate spanish hypnotic_bafb5eb7:
 
     # "Не уверен, что сработает, но попробовать стоит."
-    ""
+    "No estoy seguro de si va a funcionar, pero vale la pena intentarlo."
 
 # game/script.rpy:315
 translate spanish hypnotic_54fd2c4e:
 
     # clive "Я… Понимаешь…"
-    clive ""
+    clive "Yo... ya sabes..."
 
 # game/script.rpy:317
 translate spanish hypnotic_6c555ca8:
 
     # "Опустив глаза и запинаясь, делал вид, что очень смущен."
-    ""
+    "Bajando los ojos y tartamudeando, pretendí estar avergonzado."
 
 # game/script.rpy:319
 translate spanish hypnotic_217a42af:
 
     # "Единственный вариант выкрутиться из этой ситуации, который я видел, избежав подозрений, — придумать достаточно трогательную историю."
-    ""
+    "La única manera de salir de esta, y sin sospechas, es con una historia lo suficientemente sentimental."
 
 # game/script.rpy:321
 translate spanish hypnotic_63038b57:
 
     # "Насколько я знаю, девушки более эмоциональны и романтичны, нежели парни."
-    ""
+    "Hasta donde se, las chicas son mas sentimentales y románticas que los chicos."
 
 # game/script.rpy:323
 translate spanish hypnotic_1e802f05:
 
     # clive "Ты мне нравишься."
-    clive ""
+    clive "Yo te quiero."
 
 # game/script.rpy:325
 translate spanish hypnotic_b112b470:
 
     # clive "И… у меня давно было желание похитить любимого человека, вот я и решил на свой день рождения сделать себе такой подарок…"
-    clive ""
+    clive "Y... Hace tiempo tenia el deseo de secuestrar a alguien a quien amara, asi que decidí hacerme un regalo en mi cumpleaños..."
 
 # game/script.rpy:327
 translate spanish hypnotic_cfcc3112:
 
     # "Потирая руку, я продолжил смотреть в пол, не поднимая взгляда."
-    ""
+    "Frotándome las manos, me quede mirando al suelo sin subir la cabeza."
 
 # game/script.rpy:333
 translate spanish hypnotic_d6bd8a96:
 
     # alice "Да кто в такое поверит…"
-    alice ""
+    alice "Quien creería algo..."
 
 # game/script.rpy:339
 translate spanish hypnotic_bf6c9f4e:
 
     # alice "Погоди, ты…{w} любишь меня?!"
-    alice ""
+    alice "Espera, tu… {w} me quieres?!"
 
 # game/script.rpy:341
 translate spanish hypnotic_a0c7b3d3:
 
     # "Я неуверенно кивнул."
-    ""
+    "Asentí inciertamente."
 
 # game/script.rpy:347
 translate spanish hypnotic_10644f80:
 
     # alice "Я кому-то понравилась…"
-    alice ""
+    alice "Alguien me quiere..."
 
 # game/script.rpy:349
 translate spanish hypnotic_fcb14fc0:
 
     # "Недавняя настороженность и гнев плавно исчезли. Она улыбнулась, а глаза буквально засияли."
-    ""
+    "La reciente precaución y enojo desaparecieron suavemente. Ella sonrió y sus ojos se iluminaron."
 
 # game/script.rpy:351
 translate spanish hypnotic_84d32ac6:
 
     # "Сработало…"
-    ""
+    "Funciono..."
 
 # game/script.rpy:353
 translate spanish hypnotic_ba35312a:
 
     # "Что ж, моя ложь удалась."
-    ""
+    "Bueno, mi mentira funciono."
 
 # game/script.rpy:355
 translate spanish hypnotic_f5c6f217:
 
     # "Хотя, признаться, на успех я сильно не рассчитывал и уже готовился свести похищение к издевательской шутке."
-    ""
+    "Aunque, debo admitir que no esperaba que funcionara, ya estaba preparado para convertir lo del secuestro en una broma pesada"
 
 # game/script.rpy:357
 translate spanish hypnotic_3147287e:
 
     # "Посмеяться ей в лицо, обозвать наивной дурой, раз поверила, что такой красавец, как я, способен по-настоящему пригласить на свидание тихоню вроде нее."
-    ""
+    "Reírme en su cara, llamarla estúpida por creer que un galán como yo invitaría a salir a una chica simplona como ella."
 
 # game/script.rpy:359
 translate spanish hypnotic_84559dd7:
 
     # "А потом грубо выставить за дверь, возможно, ускорив ее бегство еще несколькими обидными фразами вдогонку."
-    ""
+    "Y luego de mala gana acompañarla a la puerta después de lidiar con la cantidad de insultos hacia mi."
 
 # game/script.rpy:361
 translate spanish hypnotic_96c60425:
 
     # "После такого прощания она не то, что разговаривать — смотреть бы в мою сторону не смогла."
-    ""
+    "Luego de una despedida como esa, no solo no podría hablar con ella, no podría ni siquiera verla."
 
 # game/script.rpy:363
 translate spanish hypnotic_bc09224b:
 
     # "Должен признать, что Алиса не так проста, как казалось. Мне не удалось обмануть ее с первого раза, хотя лжец из меня опытный."
-    ""
+    "Aunque debo admitir que Alice no es tan simple como parece. No fui capaz de engañarla la primera vez, a pesar de ser un mentiroso experto."
 
 # game/script.rpy:365
 translate spanish hypnotic_cc5de075:
 
     # "Однако как можно сразу поверить в то, что я ее полюбил …"
-    ""
+    "Sin embargo, ¿como puede creerse de inmediato que me enamore de ella..."
 
 # game/script.rpy:367
 translate spanish hypnotic_1dbabb6f:
 
     # "Пока я удивлялся ее наивности, она пару секунд что-то молча обдумывала."
-    ""
+    "Mientras me cuestionaba sobre su estupidez, ella se quedo pensando en algo por unos segundos."
 
 # game/script.rpy:373
 translate spanish hypnotic_c75c28e3:
 
     # alice "Получается, меня похитил мой одноклассник, который еще и сумасшедший."
-    alice ""
+    alice "Parece que fui raptada por mi compañero de clase, que también esta loco."
 
 # game/script.rpy:375
 translate spanish hypnotic_6b6ea7f8:
 
     # "Ее голос стал более мягким, я бы даже сказал, мелодичным."
-    ""
+    "Su voz era mas suave ahora, armoniosa hasta diría."
 
 # game/script.rpy:381
 translate spanish hypnotic_7ef4e20e:
 
     # alice "А что ты хотел сделать дальше?"
-    alice ""
+    alice "¿Que quieres hacer ahora?"
 
 # game/script.rpy:383
 translate spanish hypnotic_b5b1576b:
 
     # clive "Ну, хотел оставить жить у себя, наверно…"
-    clive ""
+    clive "Bueno, quería dejarte vivir aca, creo..."
 
 # game/script.rpy:389
 translate spanish hypnotic_93c65216:
 
     # "Алиса рассмеялась."
-    ""
+    "Alice se rio."
 
 # game/script.rpy:391
 translate spanish hypnotic_3459a913:
 
     # alice "Наверно? А ты не все продумал, да?"
-    alice ""
+    alice "¿Creo? No lo pensaste mucho, no?"
 
 # game/script.rpy:393
 translate spanish hypnotic_9a71e4b7:
 
     # clive "Тут нет ничего смешного."
-    clive ""
+    clive "No hay nada de gracioso en eso."
 
 # game/script.rpy:395
 translate spanish hypnotic_de37e532:
 
     # "Я слегка насупился, чем смутил мою бывшую пленницу."
-    ""
+    "Fruncí el seño un poco, lo que avergonzó a mi \"yo\" cautivo."
 
 # game/script.rpy:401
 translate spanish hypnotic_02c0bfbc:
 
     # alice "Хах, прости. Я просто всегда думала, что ты невероятен. У тебя отличные оценки по всем предметам, ты занимаешь призовые места, хорош в спорте. Никогда бы не подумала, что понравлюсь такому парню."
-    alice ""
+    alice "Ja ja, lo siento. Siempre pense que eras increíble. Tienes excelentes notas en todas las materias, consigues premios, eres bueno en deportes. Nunca pense que alguien como vos gustaría de mi."
 
 # game/script.rpy:407
 translate spanish hypnotic_854b2a18:
 
     # alice "А еще не думала, что все-таки ты немного глуп."
-    alice ""
+    alice "Jamas habría pensado eras un poco estúpido después de todo."
 
 # game/script.rpy:409
 translate spanish hypnotic_99bc1294:
 
     # clive "И это говорит человек, который оказался похищенным."
-    clive ""
+    clive "Y lo dice la chica que se dejo secuestrar."
 
 # game/script.rpy:415
 translate spanish hypnotic_3e20bda4:
 
     # alice "Обижаешь!"
-    alice ""
+    alice "¡Como te atreves!"
 
 # game/script.rpy:419
 translate spanish hypnotic_c0e236fe:
 
     # "Мы рассмеялись."
-    ""
+    "Nos reímos."
 
 # game/script.rpy:421
 translate spanish hypnotic_84c0c5b6:
 
     # "Напряжение исчезло. Алиса расслабилась и начала вести себя более свободно и непринужденно."
-    ""
+    "Toda la tension había desaparecido. Alice se había relajado y se empezó a comportar mas libre y a gusto"
 
 # game/script.rpy:423
 translate spanish hypnotic_14a5627f:
 
     # "В школе она обычно не привлекает к себе внимание. На переменах редко выходит из класса, сидит за своей партой, опустив голову или молча глядя в окно."
-    ""
+    "En la escuela ella generalmente no llama la atención. Durante el recreo, rara vez deja el salon, ella se sentada en su escritorio con la cabeza abajo, o en silencio mirando por ventana."
 
 # game/script.rpy:425
 translate spanish hypnotic_144200e9:
 
     # "В общем, неприметная серая мышь."
-    ""
+    "En general, un ratoncito gris muy camuflado"
 
 # game/script.rpy:427
 translate spanish hypnotic_ad320848:
 
     # "А сейчас я даже подловил себя на мысли, что у нее очень приятная улыбка."
-    ""
+    "Y ahora me encuentro a mi mismo pensando que tiene una linda sonrisa."
 
 # game/script.rpy:429
 translate spanish hypnotic_b0a50014:
 
     # "Школа, увлечения, музыка… Мы плавно переходили от одной темы к другой, сознательно не вспоминая о похищении, и не замечали, как летело время."
-    ""
+    "Escuela, pasatiempos, música... Cambiamos suavemente de un tema a otro, evitando conscientemente lo del secuestro, "
 
 # game/script.rpy:431
 translate spanish hypnotic_76400b79:
 
     # "Чем дольше мы общались, тем свободнее Алиса себя чувствовала."
-    ""
+    "Mientras mas hablábamos, mas cómoda se sentía Alice."
 
 # game/script.rpy:433
 translate spanish hypnotic_fe7d5bd3:
 
     # "Она слушала меня с неподдельным интересом, иногда даже отпуская разные шуточки в мою сторону и искренне смеясь."
-    ""
+    "Ella me escuchaba con realmente mucho interés, algunas veces haciendo varios chistes hacia mi y riéndose sinceramente."
 
 # game/script.rpy:435
 translate spanish hypnotic_b3b872d3:
 
     # "Я слушал ее истории и иногда не мог сдержать улыбки."
-    ""
+    "Escuchaba cada una de sus historias y aveces no podia evitar sonreír."
 
 # game/script.rpy:437
 translate spanish hypnotic_fe210f6a:
 
     # "Появилось ощущение, что Алиса, которая учится со мной в школе и Алиса, сидящая рядом, — два разных человека."
-    ""
+    "Tenia el sentimiento de que la alice, que iba a la escuela, y la alice, que se estaba sentada al lado mio, eran dos personas diferentes."
 
 # game/script.rpy:441
 translate spanish hypnotic_84161761:
 
     # "Никогда бы не подумал, что Алиса может быть такой общительной и… {w}радостной."
-    ""
+    "Nunca pense que Alice podia ser tan social y... {w}feliz."
 
 # game/script.rpy:443
 translate spanish hypnotic_a7cbf21b:
 
     # "Следующие несколько часов пролетели незаметно, мы болтали о всякой ерунде."
-    ""
+    "Las siguientes horas pasaron rápido, conversamos sobre un montón de cosas sin sentido."
 
 # game/script.rpy:447
 translate spanish hypnotic_5ff79261:
 
     # "Я был идиотом."
-    ""
+    "Era un idiota."
 
 # game/script.rpy:455
 translate spanish hypnotic_c518f121:
 
     # clive "Уже поздно. Думаю, тебе пора возвращаться домой. Твои родители наверняка уже беспокоятся."
-    clive ""
+    clive "Es tarde. Creo que deberías ir a casa. Tus padres probablemente están preocupados."
 
 # game/script.rpy:461
 translate spanish hypnotic_b55444d8:
 
     # "От моих слов Алиса внезапно погрустнела."
-    ""
+    "Mis palabras de repente pusieron a Alice triste."
 
 # game/script.rpy:463
 translate spanish hypnotic_e0a9d962:
 
     # "Ее улыбка и блеск в глазах пропали."
-    ""
+    "Su sonrisa y el brillo en sus ojos se habían ido."
 
 # game/script.rpy:465
 translate spanish hypnotic_406842be:
 
     # "Словно она опять надела маску призрака, которую всегда носит в школе."
-    ""
+    "Es como si llevara la mascara que siempre trae en la escuela."
 
 # game/script.rpy:467
 translate spanish hypnotic_3f5cd980:
 
     # alice "У меня нет родителей."
-    alice ""
+    alice "No tengo padres."
 
 # game/script.rpy:469
 translate spanish hypnotic_ec9df726:
 
     # clive "А… сожалею… {w}Тогда с кем ты живешь?"
-    clive ""
+    clive "Ah... Lo siento... {w}Entonces con quien vives?"
 
 # game/script.rpy:475
 translate spanish hypnotic_a896e54f:
 
     # alice "С мачехой и… {w}ее ухажером."
-    alice ""
+    alice "Con mi madrastra y... {w}Su novio"
 
 # game/script.rpy:479
 translate spanish hypnotic_dcb093a4:
 
     # "Последние слова она почти прошипела сквозь зубы. Мне сразу стало понятно, что дома у нее все было не очень хорошо."
-    ""
+    "Ella casi susurro esas ultimas palabras. Fue rápidamente claro que las cosas no iban muy bien en casa."
 
 # game/script.rpy:481
 translate spanish hypnotic_78bd6210:
 
     # "Мои догадки подтвердились — в семье ее не сильно жалуют."
-    ""
+    "Mis sospechas eran ciertas — la familia no la ayudaba mucho que digamos."
 
 # game/script.rpy:485
 translate spanish hypnotic_c828fc7a:
 
     # alice "………"
-    alice ""
+    alice "......"
 
 # game/script.rpy:487
 translate spanish hypnotic_1accc3e5:
 
     # "Алиса продолжала сидеть рядом со мной, не собираясь уходить."
-    ""
+    "Alice se quedaba sentada al lado mio, queriéndose quedar."
 
 # game/script.rpy:489
 translate spanish hypnotic_c9099cba:
 
     # "Я молчал и лишь посмотрел на время в телефоне."
-    ""
+    "Yo me quede callado y me fijaba en la hora de mi teléfono."
 
 # game/script.rpy:491
 translate spanish hypnotic_50de6d60:
 
     # "Скоро должен вернуться Эдвард, и, если он увидит Алису, придется объясняться."
-    ""
+    "Edward debería volver pronto, y si el ve a Alice, voy a tener que explicarle."
 
 # game/script.rpy:493
 translate spanish hypnotic_1bf7a98f:
 
     # "Он неплохой человек и будет только рад, если я приведу домой девушку, но Алиса не моя девушка, я лишь похитил ее и хотел пытать."
-    ""
+    "El es una buena persona y va a estar feliz si traigo a una chica, pero Alice no es mi novia, yo solo la secuestre y trate de torturarla."
 
 # game/script.rpy:495
 translate spanish hypnotic_ea03f427:
 
     # "Связать и спрятать в другой комнате с кляпом во рту — это одно, а объяснять, что Алиса тут делает, и как мы познакомились — я совершенно не хотел."
-    ""
+    "Atarla y esconderla en otra habitación con una soga en la boca es una cosa, pero explicar que estaba haciendo Alice, como nos encontramos — No quería hacerlo."
 
 # game/script.rpy:497
 translate spanish hypnotic_93342d05:
 
     # "Заметив мое замешательство, Алиса осеклась."
-    ""
+    "Notando mi confusion, ella paro."
 
 # game/script.rpy:499
 translate spanish hypnotic_5770346b:
 
     # "Алиса мельком глянула на меня, затем на время, поджала губы и, резко выдохнув, встала."
-    ""
+    "Alice me miro brevemente, luego, por un segundo, frunció los labios, y con un suspiro agudo se levanto."
 
 # game/script.rpy:503
 translate spanish hypnotic_9a3497e0:
 
     # alice "Прости. Ты ведь не один живешь, а я и так задержалась."
-    alice ""
+    alice "Lo siento. No vives solo, y ya es muy tarde."
 
 # game/script.rpy:505
 translate spanish hypnotic_143d6c16:
 
     # "Она с заметным нежеланием подошла к двери."
-    ""
+    "Ella fue a la puerta claramente indispuesta a hacerlo."
 
 # game/script.rpy:515
 translate spanish hypnotic_996d289e:
 
     # "На улице шел дождь."
-    ""
+    "Estaba lloviendo afuera."
 
 # game/script.rpy:517
 translate spanish hypnotic_50d0397e:
 
     # "Перед уходом, Алиса обернулась, сказав последние слова."
-    ""
+    "Antes de irse, Alice se dio vuelta y me dijo unas ultimas palabras."
 
 # game/script.rpy:523
 translate spanish hypnotic_14d57285:
 
     # alice "Знаешь, я была бы не против, если бы ты действительно похитил меня. С тобой уютнее."
-    alice ""
+    alice "Sabes, no me habría molestado si realmente me secuestraste. Estar contigo es mas confortante."
 
 # game/script.rpy:527
 translate spanish hypnotic_c0e8cdb4:
 
     # "И она ушла."
-    ""
+    "Y ella se fue."
 
 # game/script.rpy:533
 translate spanish hypnotic_50428109:
 
     # "Так бы все и закончилось, но через пару часов Алиса вернулась."
-    ""
+    "Y asi habría terminado, pero un par de horas después, Alice volvió."
 
 # game/script.rpy:541
 translate spanish hypnotic_9895e676:
 
     # "Прозвенел звонок."
-    ""
+    "El timbre suena."
 
 # game/script.rpy:549
 translate spanish hypnotic_ac52bfd5:
 
     # alice "Клайв, пожалуйста, похить меня."
-    alice ""
+    alice "Clive, por favor, secuéstrame."
 
 # game/script.rpy:553
 translate spanish hypnotic_fbf7a8a3:
 
     # "Озвучив свою безумную просьбу и дрожащей рукой держа сумку в руке, она улыбалась…"
-    ""
+    "Después de pedirme esa locura y apenas sosteniendo su mochila con su mano temblando, ella sonrió..."
 
 # game/script.rpy:555
 translate spanish hypnotic_3ddd5fc5:
 
     # "…и плакала."
-    ""
+    "...Y lloro."
 
 # game/script.rpy:557
 translate spanish hypnotic_560313e8:
 
     # "Улыбка на ее лице была лишь искусственной плотиной, готовой в любую секунду разрушиться под наплывом эмоций, не в силах больше сдерживать накопленную печаль, одиночество и безысходность."
-    ""
+    "La sonrisa en su cara era solo una cosa artificial, al borde de colapsar en cualquier momento bajo la influencia de emociones, incapaz de contener tanta tristeza, soledad y desesperación."
 
 # game/script.rpy:559
 translate spanish hypnotic_2c55141f:
 
     # "Что с ней произошло?"
-    ""
+    "¿Que le había pasado?"
 
 # game/script.rpy:561
 translate spanish hypnotic_1245b88b:
 
     # "Почему она плачет?"
-    ""
+    "¿Porque estaba llorando?"
 
 # game/script.rpy:563
 translate spanish hypnotic_ae8056ed:
 
     # "Подобные вопросы недолго задерживались в моей голове, ведь…"
-    ""
+    "Esas preguntas no duraron mucho tiempo en mi cabeza, porque..."
 
 # game/script.rpy:565
 translate spanish hypnotic_1aa9c800:
 
     # "…то, как она сейчас выглядела…"
-    ""
+    "...la manera en que me miraba..."
 
 # game/script.rpy:567
 translate spanish hypnotic_e87fc13b:
 
     # "Ее боль притягивала и манила."
-    ""
+    "Su dolor me llamaba a gritos."
 
 # game/script.rpy:569
 translate spanish hypnotic_c2541764:
 
     # "Ее уязвимость и слезы словно кричали: «Закрой меня подальше от людей и делай, что хочешь!»"
-    ""
+    "Su fragilidad y lagrimas parecían gritar: \"Aléjame de todas las personas y haz lo que quieras conmigo!\n"
 
 # game/script.rpy:571
 translate spanish hypnotic_c9445716:
 
     # "На моем пороге стояла не печальная одноклассница, а жертва, умоляющая своего палача избавить ее от страданий."
-    ""
+    "En mi puerta no estaba una compañera triste, sino una victima rogando su ejecución para poner fin a su miseria."
 
 # game/script.rpy:573
 translate spanish hypnotic_ff0944be:
 
     # "Весь ее вид вновь возбудил во мне желание сделать ей больно."
-    ""
+    "Su mirada me hacia querer lastimarla una vez mas."
 
 # game/script.rpy:575
 translate spanish hypnotic_99b52522:
 
     # "По телу пробежала знакомая волна возбуждения, дыхание участилось, руки задрожали в нетерпении."
-    ""
+    "Una familiar ola de emoción se sintió sobre mi cuerpo, mi respiración se altero, mis manos temblaban con impaciencia."
 
 # game/script.rpy:577
 translate spanish hypnotic_dfe60f83:
@@ -3688,53 +3688,53 @@ translate spanish strings:
 
     # script.rpy:1
     old "        Клайв        "
-    new ""
+    new "Clive"
 
     # script.rpy:2
     old "        Алиса        "
-    new ""
+    new "Alice"
 
     # script.rpy:3
     old "        Эдвард        "
-    new ""
+    new "Edward"
 
     # script.rpy:140
     old "Спросить, в порядке ли она?"
-    new ""
+    new "Preguntarle si esta bien"
 
     # script.rpy:140
     old "Молчать"
-    new ""
+    new "Quedarse callado"
 
     # script.rpy:1067
     old "История Алисы"
-    new ""
+    new "Historia de Alice"
 
     # script.rpy:1245
     old "Нет, ничего такого не было"
-    new ""
+    new "No, no hubo nada de eso"
 
     # script.rpy:1245
     old "Он ранил меня"
-    new ""
+    new "El me hace daño"
 
     # script.rpy:1310
     old "История Клайва"
-    new ""
+    new "Historia de Clive"
 
     # script.rpy:1491
     old "Притвориться насильником"
-    new ""
+    new "Pretender ser un violador"
 
     # script.rpy:1491
     old "Шантажировать ее любимой едой"
-    new ""
+    new "Chantajearla con su comida favorita"
 
     # script.rpy:1950
     old "Концовка № 2 из двух"
-    new ""
+    new "Final № 2 de dos"
 
     # script.rpy:2080
     old "Концовка № 1 из двух"
-    new ""
+    new "Final № 1 de dos"
 
